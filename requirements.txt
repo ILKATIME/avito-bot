@@ -1,0 +1,3 @@
+pyTelegramBotAPI
+   curl_cffi
+   beautifulsoup4
